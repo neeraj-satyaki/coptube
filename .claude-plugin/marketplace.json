@@ -8,7 +8,10 @@
   "plugins": [
     {
       "name": "coptube",
-      "source": ".",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/neeraj-satyaki/coptube.git"
+      },
       "description": "Seven-expert council (process, architect, QA, developer, manager, cyber, ops) plus four reviewers (data, content, code, UI/UX), advisor, knowledge-harvester, and company-intel scraper for copper/brass/cupronickel tube manufacturing and plant automation. Parallel dispatch, cross-talk, live web search, SWOT + pros/cons + protocol-era lens on every answer.",
       "version": "0.1.0",
       "category": "industrial-automation",
