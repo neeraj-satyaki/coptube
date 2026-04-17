@@ -1,0 +1,24 @@
+{
+  "name": "coptube",
+  "version": "0.1.0",
+  "description": "Seven-expert council plugin for copper/brass/cupronickel tube manufacturing and plant automation. Expert-type-routed subagents + knowledge harvester that pulls books, PDFs, EPUBs, and blogs to keep each expert's reference library current.",
+  "author": {
+    "name": "Satyaki",
+    "email": "satyakiwork014@gmail.com"
+  },
+  "keywords": [
+    "copper",
+    "tube",
+    "manufacturing",
+    "automation",
+    "PLC",
+    "SCADA",
+    "MES",
+    "ISA-95",
+    "OPC-UA",
+    "IEC-62443",
+    "metallurgy"
+  ],
+  "homepage": "",
+  "license": "MIT"
+}

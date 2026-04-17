@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code scratch
+.claude/
+*.log
+
+# Archive source (original .skill zip)
+*.skill
+
+# Python / Node scratch if anyone adds tooling later
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+
+# Harvester raw dumps (keep notes, drop raw)
+skills/coptube/references/updates/_raw/
