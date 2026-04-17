@@ -1,0 +1,33 @@
+{
+  "name": "coptube",
+  "owner": {
+    "name": "neeraj-satyaki",
+    "email": "neeraj.sj@satyaki.co.in",
+    "url": "https://github.com/neeraj-satyaki"
+  },
+  "plugins": [
+    {
+      "name": "coptube",
+      "source": ".",
+      "description": "Seven-expert council (process, architect, QA, developer, manager, cyber, ops) plus four reviewers (data, content, code, UI/UX), advisor, knowledge-harvester, and company-intel scraper for copper/brass/cupronickel tube manufacturing and plant automation. Parallel dispatch, cross-talk, live web search, SWOT + pros/cons + protocol-era lens on every answer.",
+      "version": "0.1.0",
+      "category": "industrial-automation",
+      "tags": [
+        "copper",
+        "tube",
+        "manufacturing",
+        "automation",
+        "PLC",
+        "SCADA",
+        "MES",
+        "OPC-UA",
+        "ISA-95",
+        "IEC-62443",
+        "metallurgy",
+        "OT",
+        "council",
+        "reviewers"
+      ]
+    }
+  ]
+}
